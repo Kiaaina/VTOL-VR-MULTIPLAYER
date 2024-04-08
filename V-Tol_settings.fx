@@ -1,5 +1,4 @@
 @include ./V-Tol_7L1.ini
-@include ./V-Tol_7L2.ini
 
 //0=off : 1=on | choose one only...
 free_for_all=1;
